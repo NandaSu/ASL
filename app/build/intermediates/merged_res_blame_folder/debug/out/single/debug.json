@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_a.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\a.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_i_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\i_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_s.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\s.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_z.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\z.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_l.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\l.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_e.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\e.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_z_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\z_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_zero.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\zero.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_o_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\o_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_v.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\v.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_w.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\w.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_e_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\e_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_o.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\o.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_eight.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\eight.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_x_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\x_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_c_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\c_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_nine.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\nine.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_q_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\q_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_g_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\g_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_h.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\h.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_k_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\k_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_m_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\m_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_r.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_four.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_t_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\t_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_two.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_v_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\v_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_s_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\s_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_u_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\u_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_w_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\w_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_six.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\six.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_k.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\k.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_search_close.xml.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\search_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_d.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\d.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_x.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\x.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_g.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\g.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_u.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\u.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\layout_asl_card_view.xml.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\layout\\asl_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_five.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\five.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_n.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\n.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_j_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\j_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_h_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\h_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_seven.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\seven.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_search_view_home.xml.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\search_view_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_j.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\j.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_q.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\q.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_f.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\f.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_search_view_bg.xml.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\search_view_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_card_view_bg.xml.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\card_view_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_b_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\b_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_y_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\y_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_m.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\m.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_three.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_one.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_d_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\d_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_c.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\c.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_l_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\l_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_y.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\y.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_t.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\t.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_f_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\f_labelled.png"
+    },
+    {
+        "merged": "com.example.asl_project.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.asl_project.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_r_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\r_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_p_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\p_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_n_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\n_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_i.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\i.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_b.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\b.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_p.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\p.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_a_labelled.png.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\a_labelled.png"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-merged_res-32:\\drawable_search_open.xml.flat",
+        "source": "C:\\Users\\Gunjanapps\\.gradle\\daemon\\7.5\\com.example.asl_project.app-main-34:\\drawable\\search_open.xml"
+    }
+]
